@@ -192,3 +192,4 @@ venv
 # Pixi lock file (because it changes with every upstream commit)
 pixi.lock
 output
+.Rproj.user
